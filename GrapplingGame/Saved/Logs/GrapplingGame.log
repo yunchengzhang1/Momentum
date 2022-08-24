@@ -720,3 +720,4 @@ Recommended: 516.25
 [2022.08.24-07.56.20:896][554]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2022.08.24-07.56.20:897][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2022.08.24-07.56.22:538][554]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.24-07.58.05:279][ 47]LogDerivedDataCache: C:/Users/AZ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.123 and deleted 0 file(s) with total size 0 MiB.
