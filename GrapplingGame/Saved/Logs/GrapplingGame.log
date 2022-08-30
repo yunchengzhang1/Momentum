@@ -9334,3 +9334,474 @@ If checked into source control this would affect other developers.
 [2022.08.30-09.05.57:091][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Boosters/HookableBooster_Auto6
 [2022.08.30-09.05.57:092][793]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/Momentum/GrapplingGame/Saved/HookableBooster_Auto614EFC5F64B7AA2F8AEE894A429F11B68.tmp' to '../../../../../Users/AZ/Documents/GitHub/Momentum/GrapplingGame/Saved/Autosaves/Game/Boosters/HookableBooster_Auto6.uasset'
 [2022.08.30-09.05.57:093][793]LogFileHelpers: Auto-saving content packages took 0.177
+[2022.08.30-09.06.12:639][840]LogEditorViewport: Clicking Background
+[2022.08.30-09.06.15:387][989]Cmd: TRANSACTION UNDO
+[2022.08.30-09.06.15:387][989]LogEditorTransaction: Undo Clicking Background
+[2022.08.30-09.06.15:576][989]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 028A7FDA7785FEFBF076061ECA14CF54F6CA7319), compiling. 
+[2022.08.30-09.06.15:581][989]LogMaterial: Display: Missing cached shadermap for Preview:Stylized_Emission_blade in PCD3D_SM5, Default, SM5 (DDC key hash: F5B909EC934D1B762EEB0573EFB28852E560923D), compiling. 
+[2022.08.30-09.06.15:583][989]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionBumpOffset_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0497BDEDC14F8E84B3DD210C2C68A6FDB9327E6C), compiling. 
+[2022.08.30-09.06.15:609][989]LogMaterial: Display: Missing cached shadermap for Preview:Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 214F37D7331AE19C9C62C2F8D3EDF7C73173AB98), compiling. 
+[2022.08.30-09.06.15:636][989]LogMaterial: Display: Missing cached shadermap for Preview:M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 84A109F5EEFDDB795B45149FED8C3E2441493C21), compiling. 
+[2022.08.30-09.06.15:641][989]LogMaterial: Display: Missing cached shadermap for Preview:Brushed_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: E6E5F8E956E89A2B023ABE18619F45DE8FA93E2C), compiling. 
+[2022.08.30-09.06.15:646][989]LogMaterial: Display: Missing cached shadermap for Preview:Armguard_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 6DCC46C9E365AAD57E2C493FF66C4D6A9A33E289), compiling. 
+[2022.08.30-09.06.15:657][989]LogMaterial: Display: Missing cached shadermap for Preview:Tube_Y in PCD3D_SM5, Default, SM5 (DDC key hash: 0F697940F20A7FDBEDA61644FD4A7AFEFDDD88B6), compiling. 
+[2022.08.30-09.06.15:662][989]LogMaterial: Display: Missing cached shadermap for Preview:M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: EAA0252761A85F910FE8DECD4A282DD2DCD83FC0), compiling. 
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.15:736][989]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.15:954][991]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.30-09.06.15:954][991]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Texture samplers: 6/16
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.15:955][991]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.16:423][ 18]Cmd: TRANSACTION UNDO
+[2022.08.30-09.06.16:424][ 18]LogEditorTransaction: Undo Rotate Elements
+[2022.08.30-09.06.16:621][ 18]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 239352F6A5EBBD035013714C0545C44BAAFB62A5), compiling. 
+[2022.08.30-09.06.16:627][ 18]LogMaterial: Display: Missing cached shadermap for Preview:Stylized_Emission_blade in PCD3D_SM5, Default, SM5 (DDC key hash: 7B6CA5F08EB22D137CD29D215A5690438E23613E), compiling. 
+[2022.08.30-09.06.16:629][ 18]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionBumpOffset_2 in PCD3D_SM5, Default, SM5 (DDC key hash: DC43674CA43ECF3BA1E63B2FAA9ABC01512115FC), compiling. 
+[2022.08.30-09.06.16:653][ 18]LogMaterial: Display: Missing cached shadermap for Preview:Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 5634547C4C78CB1D4348282A364FB863F50FFCD0), compiling. 
+[2022.08.30-09.06.16:678][ 18]LogMaterial: Display: Missing cached shadermap for Preview:M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 92CA4065F9DE2C1ABB65ED4ADC755B727E01258D), compiling. 
+[2022.08.30-09.06.16:683][ 18]LogMaterial: Display: Missing cached shadermap for Preview:Brushed_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: D5FCF888CEBBA3C11F103DA2A4157890CE18DFEA), compiling. 
+[2022.08.30-09.06.16:689][ 18]LogMaterial: Display: Missing cached shadermap for Preview:Armguard_001 in PCD3D_SM5, Default, SM5 (DDC key hash: A23D17953C1ACE96904AFC2DCE46DD45C212BF62), compiling. 
+[2022.08.30-09.06.16:694][ 18]LogMaterial: Display: Missing cached shadermap for Preview:Tube_Y in PCD3D_SM5, Default, SM5 (DDC key hash: 8ABE8914B5F7005CD92F1679C715AA637D0A36AA), compiling. 
+[2022.08.30-09.06.16:699][ 18]LogMaterial: Display: Missing cached shadermap for Preview:M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: D492C3F783C5A05DB227832E4EFDD461CFAE7432), compiling. 
+[2022.08.30-09.06.16:761][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.16:761][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.16:761][ 18]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.16:761][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.16:761][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.16:761][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.16:761][ 18]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.16:762][ 18]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.16:865][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.30-09.06.16:865][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Texture samplers: 6/16
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.16:866][ 20]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.17:168][ 38]Cmd: TRANSACTION UNDO
+[2022.08.30-09.06.17:168][ 38]LogEditorTransaction: Undo Clicking on Elements
+[2022.08.30-09.06.17:354][ 38]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E8D7848DDCE8092BBFE10B217753DCC30A1E9736), compiling. 
+[2022.08.30-09.06.17:359][ 38]LogMaterial: Display: Missing cached shadermap for Preview:Stylized_Emission_blade in PCD3D_SM5, Default, SM5 (DDC key hash: 04816D4EC1A0976C4010A0762CB672FEA7C4C103), compiling. 
+[2022.08.30-09.06.17:362][ 38]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionBumpOffset_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E35E70E3EA8D632B49B71E54D3C08CA8A255E3AD), compiling. 
+[2022.08.30-09.06.17:387][ 38]LogMaterial: Display: Missing cached shadermap for Preview:Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 7177D03489302574CF5ED5C4A473F7A65D76B88D), compiling. 
+[2022.08.30-09.06.17:412][ 38]LogMaterial: Display: Missing cached shadermap for Preview:M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 915EFE1EE4121E9A2A3FBE59C6A44A51E870045D), compiling. 
+[2022.08.30-09.06.17:417][ 38]LogMaterial: Display: Missing cached shadermap for Preview:Brushed_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 0A7A85836F8347E730983C35EB757013D5FEEC25), compiling. 
+[2022.08.30-09.06.17:422][ 38]LogMaterial: Display: Missing cached shadermap for Preview:Armguard_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 98A5A1D850095F4C1BEAE370C8B2A2AEF389F03F), compiling. 
+[2022.08.30-09.06.17:427][ 38]LogMaterial: Display: Missing cached shadermap for Preview:Tube_Y in PCD3D_SM5, Default, SM5 (DDC key hash: B1817D143CA430A75B87DE16F72829630E6B75EC), compiling. 
+[2022.08.30-09.06.17:431][ 38]LogMaterial: Display: Missing cached shadermap for Preview:M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 5850F3226469A6B632AD61AF79EA7AAD8C7A70B6), compiling. 
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.17:489][ 38]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.17:585][ 40]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.30-09.06.17:585][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Texture samplers: 6/16
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.17:586][ 40]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.18:129][ 71]Cmd: TRANSACTION UNDO
+[2022.08.30-09.06.18:129][ 71]LogEditorTransaction: Undo Edit Transparency_Amount
+[2022.08.30-09.06.18:327][ 71]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 06F6E270407F2F0E748F6450B31ED4A7FA930E92), compiling. 
+[2022.08.30-09.06.18:332][ 71]LogMaterial: Display: Missing cached shadermap for Preview:Stylized_Emission_blade in PCD3D_SM5, Default, SM5 (DDC key hash: B5EFE2CC3A719976E7A4D7373E4526344B340588), compiling. 
+[2022.08.30-09.06.18:334][ 71]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionBumpOffset_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 74827D2E082655D7EA9A1706386CBC6C893ACC5B), compiling. 
+[2022.08.30-09.06.18:355][ 71]LogMaterial: Display: Missing cached shadermap for Preview:Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 2B9CB0B5B396E6B0807B46799696D20D7EE3722B), compiling. 
+[2022.08.30-09.06.18:379][ 71]LogMaterial: Display: Missing cached shadermap for Preview:M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 1E4DD721FA334F99D713CDD28CDDEDC6AA830BF8), compiling. 
+[2022.08.30-09.06.18:383][ 71]LogMaterial: Display: Missing cached shadermap for Preview:Brushed_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: E7F29620971A889D8652772AFB5C9C3BE7B4C5FA), compiling. 
+[2022.08.30-09.06.18:388][ 71]LogMaterial: Display: Missing cached shadermap for Preview:Armguard_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 180A5CA3FC2FF8AB9F2AEB0ED04ECBD3C89C6B8C), compiling. 
+[2022.08.30-09.06.18:392][ 71]LogMaterial: Display: Missing cached shadermap for Preview:Tube_Y in PCD3D_SM5, Default, SM5 (DDC key hash: 2E5AAC5D9F7D1C9F78D8CCB7DA5307B30B92183E), compiling. 
+[2022.08.30-09.06.18:397][ 71]LogMaterial: Display: Missing cached shadermap for Preview:M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: CBFE0D697292F3A37371B0919AE8D4039A43ACFE), compiling. 
+[2022.08.30-09.06.18:458][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.18:458][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.18:458][ 71]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.18:459][ 71]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture samplers: 6/16
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.18:575][ 73]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.19:031][100]Cmd: TRANSACTION UNDO
+[2022.08.30-09.06.19:031][100]LogEditorTransaction: Undo Clicking Background
+[2022.08.30-09.06.19:215][100]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 331734031F4145363AA713E0FE789E00AB0E3813), compiling. 
+[2022.08.30-09.06.19:221][100]LogMaterial: Display: Missing cached shadermap for Preview:Stylized_Emission_blade in PCD3D_SM5, Default, SM5 (DDC key hash: 35EC1D7423F46A0091B1958C84F5C81061F11F37), compiling. 
+[2022.08.30-09.06.19:223][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionBumpOffset_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F1CDDF3FAF36E2A45678D484F4DB728530FB987E), compiling. 
+[2022.08.30-09.06.19:243][100]LogMaterial: Display: Missing cached shadermap for Preview:Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 11A0A9DB24DE4314E1EC0EBF70E8204312581EC9), compiling. 
+[2022.08.30-09.06.19:268][100]LogMaterial: Display: Missing cached shadermap for Preview:M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: DDFC1B4DE0AD89345CD1AF283F270499DDDFF24B), compiling. 
+[2022.08.30-09.06.19:273][100]LogMaterial: Display: Missing cached shadermap for Preview:Brushed_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 40D1C73BFA4CAFC023BC5FFD75B32BD8B7FD6955), compiling. 
+[2022.08.30-09.06.19:279][100]LogMaterial: Display: Missing cached shadermap for Preview:Armguard_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 4150F63C98DDBCBDAC84A72633C8CA91CC74966F), compiling. 
+[2022.08.30-09.06.19:284][100]LogMaterial: Display: Missing cached shadermap for Preview:Tube_Y in PCD3D_SM5, Default, SM5 (DDC key hash: 7BF2A6B22727867C4F822FCEAF1B5DA9F669A844), compiling. 
+[2022.08.30-09.06.19:289][100]LogMaterial: Display: Missing cached shadermap for Preview:M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: F77132904AB6B8BB178C592758B98FE0C75F179B), compiling. 
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.19:354][100]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture samplers: 6/16
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.19:489][102]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.19:820][121]Cmd: TRANSACTION UNDO
+[2022.08.30-09.06.19:820][121]LogEditorTransaction: Undo Move Elements
+[2022.08.30-09.06.20:010][121]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3714250B9EFC98E83E84EAFA40CB54E2F8679BD1), compiling. 
+[2022.08.30-09.06.20:015][121]LogMaterial: Display: Missing cached shadermap for Preview:Stylized_Emission_blade in PCD3D_SM5, Default, SM5 (DDC key hash: 19BC699CA842C8439A672A6DDCE6956A8077F3D6), compiling. 
+[2022.08.30-09.06.20:018][121]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionBumpOffset_2 in PCD3D_SM5, Default, SM5 (DDC key hash: BCE24D9F2F05880C4DA5512C10D8B6D0CC48B622), compiling. 
+[2022.08.30-09.06.20:042][121]LogMaterial: Display: Missing cached shadermap for Preview:Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 371CD7883C4DE22E7106F3AED4CD38006005E892), compiling. 
+[2022.08.30-09.06.20:070][121]LogMaterial: Display: Missing cached shadermap for Preview:M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: EB0D193F751AC142925DCADFC129D42BD62F35CE), compiling. 
+[2022.08.30-09.06.20:075][121]LogMaterial: Display: Missing cached shadermap for Preview:Brushed_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 2AAAE3CDE62C12D1CD54079FB04861CA055D3F39), compiling. 
+[2022.08.30-09.06.20:081][121]LogMaterial: Display: Missing cached shadermap for Preview:Armguard_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DD3A857D0C379AD73B36BD882DE245703679DCF), compiling. 
+[2022.08.30-09.06.20:086][121]LogMaterial: Display: Missing cached shadermap for Preview:Tube_Y in PCD3D_SM5, Default, SM5 (DDC key hash: 2F1EAA30DA2FE3664716F95208DCB4B676DF8BFB), compiling. 
+[2022.08.30-09.06.20:091][121]LogMaterial: Display: Missing cached shadermap for Preview:M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 083E43A5C89A17336433C1B148EAC910B76C0F92), compiling. 
+[2022.08.30-09.06.20:153][121]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.20:154][121]MaterialEditorStats: Shader Count: 0
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: Texture samplers: 6/16
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.20:259][123]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: Texture samplers: 5/16
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.30-09.06.20:260][123]MaterialEditorStats: Shader Count: 4
+[2022.08.30-09.06.21:277][179]LogEditorViewport: Clicking Background
+[2022.08.30-09.06.22:707][260]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.30-09.06.22:715][260]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.30-09.06.22:715][260]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.30-09.06.22:715][260]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.30-09.06.22:715][260]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.30-09.06.22:715][260]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2022.08.30-09.06.22:715][260]LogWorldPartition: Display: GenerateStreaming took 161 us
+[2022.08.30-09.06.22:716][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.30-09.06.22:716][260]PIE: New page: PIE session: Blade_showcase (Aug 29, 2022, 11:06:22 PM)
+[2022.08.30-09.06.22:716][260]LogPlayLevel: Creating play world package: /Game/TestLevel/UEDPIE_0_Blade_showcase
+[2022.08.30-09.06.22:718][260]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.30-09.06.22:718][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002154s)
+[2022.08.30-09.06.22:718][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel/Blade_showcase.Blade_showcase to /Game/TestLevel/UEDPIE_0_Blade_showcase.Blade_showcase (0.002212s)
+[2022.08.30-09.06.22:718][260]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.30-09.06.22:719][260]LogAIModule: Creating AISystem for world Blade_showcase
+[2022.08.30-09.06.22:719][260]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.30-09.06.22:719][260]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.30-09.06.22:720][260]LogWorldPartition: Display: WorldPartition initialize took 481 us
+[2022.08.30-09.06.22:720][260]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2022.08.30-09.06.22:761][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.08.30-09.06.22:767][260]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.08.30-09.06.22:767][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.30-09.06.22:767][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.30-09.06.22:767][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.30-09.06.22:767][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.30-09.06.22:767][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.30-09.06.22:767][260]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.30-09.06.22:767][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.30-09.06.22:767][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.30-09.06.22:768][260]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.30-09.06.22:768][260]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.30-09.06.22:768][260]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.30-09.06.22:770][260]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.30-09.06.22:787][260]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.08.30-09.06.22:787][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.30-09.06.22:787][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.30-09.06.22:787][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.30-09.06.22:788][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2022.08.30-09.06.22:788][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2022.08.30-09.06.22:790][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2022.08.30-09.06.22:790][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2022.08.30-09.06.22:790][260]LogInit: FAudioDevice initialized.
+[2022.08.30-09.06.22:790][260]LogAudio: Display: Audio Device (ID: 29) registered with world 'Blade_showcase'.
+[2022.08.30-09.06.22:802][260]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.30-09.06.22:803][260]LogWorld: Bringing World /Game/TestLevel/UEDPIE_0_Blade_showcase.Blade_showcase up for play (max tick rate 0) at 2022.08.30-04.06.22
+[2022.08.30-09.06.22:803][260]LogWorld: Bringing up level for play took: 0.000585
+[2022.08.30-09.06.22:805][260]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2022.08.30-09.06.22:807][260]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1090.000 Y=-70.000 Z=160.000
+[2022.08.30-09.06.22:807][260]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2022.08.30-09.06.22:807][260]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=1090.000 Y=-70.000 Z=160.000,P=-0.000000 Y=-179.999999 R=0.000000
+[2022.08.30-09.06.22:808][260]PIE: Server logged in
+[2022.08.30-09.06.22:809][260]PIE: Play in editor total start time 0.095 seconds.
+[2022.08.30-09.06.43:449][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.30-09.06.43:449][349]LogWorld: BeginTearingDown for /Game/TestLevel/UEDPIE_0_Blade_showcase
+[2022.08.30-09.06.43:449][349]LogWorld: UWorld::CleanupWorld for Blade_showcase, bSessionEnded=true, bCleanupResources=true
+[2022.08.30-09.06.43:449][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.30-09.06.43:464][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.30-09.06.43:472][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.30-09.06.43:515][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.30-09.06.43:516][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.08.30-09.06.43:518][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.08.30-09.06.43:523][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.30-09.06.43:526][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.08.30-09.06.43:596][350]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.08.30-09.07.08:572][645]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.30-09.07.08:581][645]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.30-09.07.08:581][645]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.30-09.07.08:581][645]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.30-09.07.08:581][645]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.30-09.07.08:581][645]LogWorldPartition: Display: GetPartitionedActors took 33 us
+[2022.08.30-09.07.08:581][645]LogWorldPartition: Display: GenerateStreaming took 134 us
+[2022.08.30-09.07.08:581][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.30-09.07.08:582][645]PIE: New page: PIE session: Blade_showcase (Aug 29, 2022, 11:07:08 PM)
+[2022.08.30-09.07.08:582][645]LogPlayLevel: Creating play world package: /Game/TestLevel/UEDPIE_0_Blade_showcase
+[2022.08.30-09.07.08:583][645]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.30-09.07.08:583][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001957s)
+[2022.08.30-09.07.08:583][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel/Blade_showcase.Blade_showcase to /Game/TestLevel/UEDPIE_0_Blade_showcase.Blade_showcase (0.002016s)
+[2022.08.30-09.07.08:583][645]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.30-09.07.08:584][645]LogAIModule: Creating AISystem for world Blade_showcase
+[2022.08.30-09.07.08:584][645]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.30-09.07.08:584][645]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.30-09.07.08:584][645]LogWorldPartition: Display: WorldPartition initialize took 406 us
+[2022.08.30-09.07.08:584][645]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2022.08.30-09.07.08:624][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.08.30-09.07.08:627][645]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.08.30-09.07.08:627][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.30-09.07.08:627][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.30-09.07.08:627][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.30-09.07.08:627][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.30-09.07.08:627][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.30-09.07.08:627][645]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.30-09.07.08:627][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.30-09.07.08:627][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.30-09.07.08:627][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.30-09.07.08:627][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.30-09.07.08:627][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.30-09.07.08:629][645]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.30-09.07.08:645][645]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.08.30-09.07.08:645][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.30-09.07.08:645][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.30-09.07.08:645][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.30-09.07.08:645][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2022.08.30-09.07.08:645][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2022.08.30-09.07.08:648][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2022.08.30-09.07.08:648][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2022.08.30-09.07.08:648][645]LogInit: FAudioDevice initialized.
+[2022.08.30-09.07.08:648][645]LogAudio: Display: Audio Device (ID: 30) registered with world 'Blade_showcase'.
+[2022.08.30-09.07.08:660][645]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.30-09.07.08:661][645]LogWorld: Bringing World /Game/TestLevel/UEDPIE_0_Blade_showcase.Blade_showcase up for play (max tick rate 0) at 2022.08.30-04.07.08
+[2022.08.30-09.07.08:661][645]LogWorld: Bringing up level for play took: 0.000559
+[2022.08.30-09.07.08:663][645]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2022.08.30-09.07.08:664][645]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1090.000 Y=-70.000 Z=160.000
+[2022.08.30-09.07.08:664][645]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2022.08.30-09.07.08:665][645]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=1090.000 Y=-70.000 Z=160.000,P=-0.000000 Y=-179.999999 R=0.000000
+[2022.08.30-09.07.08:666][645]PIE: Server logged in
+[2022.08.30-09.07.08:666][645]PIE: Play in editor total start time 0.087 seconds.
+[2022.08.30-09.07.15:289][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.30-09.07.15:289][296]LogWorld: BeginTearingDown for /Game/TestLevel/UEDPIE_0_Blade_showcase
+[2022.08.30-09.07.15:289][296]LogWorld: UWorld::CleanupWorld for Blade_showcase, bSessionEnded=true, bCleanupResources=true
+[2022.08.30-09.07.15:289][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.30-09.07.15:305][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.30-09.07.15:314][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.30-09.07.15:361][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.30-09.07.15:361][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.08.30-09.07.15:363][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.08.30-09.07.15:370][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.08.30-09.07.15:413][297]LogPlayLevel: Display: Destroying online subsystem :Context_61
