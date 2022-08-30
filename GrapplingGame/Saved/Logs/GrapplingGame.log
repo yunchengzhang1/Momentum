@@ -6259,3 +6259,5 @@ If checked into source control this would affect other developers.
 [2022.08.30-08.27.29:666][341]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/Momentum/GrapplingGame/Saved/sword_needTexture29C510E946841B1945AB0FADBA324906.tmp' to '../../../../../Users/AZ/Documents/GitHub/Momentum/GrapplingGame/Content/Melee/Weapon/Textured_blade/sword_needTexture.uasset'
 [2022.08.30-08.27.29:688][341]AssetCheck: New page: Asset Save: sword_needTexture
 [2022.08.30-08.27.29:688][341]LogContentValidation: Display: Validating StaticMesh /Game/Melee/Weapon/Textured_blade/sword_needTexture.sword_needTexture
+[2022.08.30-08.28.12:437][776]BlueprintLog: New page: Compile HookableBooster
+[2022.08.30-08.28.12:517][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
