@@ -1,0 +1,12 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=true, Min=(X=117.500 Y=-602.500 Z=-20.000), Max=(X=1262.500 Y=542.500 Z=485.617)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/TestLevel/Blade_showcase
+   |  ActorDescs:
+   |      - Guid:46D5E3C54C75241A7AB827B6D5313149 Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:6CD004C6421D5698B3B28189CABF3062 Class:Actor Name:Cube_Blue_C_UAID_3C7C3F51A661913101_1213861425 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=117.500 Y=-602.500 Z=20.000), Max=(X=1262.500 Y=542.500 Z=40.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:731DC9204AA4DC576D1D60911729DD10 Class:StaticMeshActor Name:StaticMeshActor_UAID_3C7C3F51A661913101_1285883427 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=684.778 Y=-90.603 Z=115.209), Max=(X=735.372 Y=14.685 Z=485.617) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:true FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:8BE01AA74A179A65120008A9816D0A7A Class:PlayerStart Name:PlayerStart_UAID_3C7C3F51A661913101_1411105428 SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=1050.000 Y=-110.000 Z=68.000), Max=(X=1130.000 Y=-30.000 Z=252.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:D027ABCA48C8358EABAAF9BA8C467EC1 Class:Actor Name:Cube_Blue_C_UAID_3C7C3F51A661913101_1235763426 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=615.000 Y=-105.000 Z=-20.000), Max=(X=765.000 Y=45.000 Z=80.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
