@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Arthu/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/FishingVillage.umap",
+				"C:/Users/Arthu/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/Player.uasset",
+				"C:/Users/Arthu/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/Enemies/walker/BP_Walker.uasset",
 				"C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/StarterContent/Materials/M_AssetPlatform.uasset",
 				"C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/landwalker_2_CtrlRig_Take1.uasset",
