@@ -10585,3 +10585,456 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.08-08.22.05:088][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 273 ms (total: 31.4 sec)
 [2023.03.08-08.22.05:101][106]AssetCheck: New page: Asset Save: FishingVillage
 [2023.03.08-08.22.05:102][106]LogContentValidation: Display: Validating /Script/Engine.World /Game/FishingVillage.FishingVillage
+[2023.03.08-08.47.54:691][106]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.08-08.47.54:704][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-08.47.54:704][106]PIE: New page: PIE session: FishingVillage (Mar 7, 2023, 8:47:54 PM)
+[2023.03.08-08.47.54:704][106]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.47.54:713][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008770s)
+[2023.03.08-08.47.54:713][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FishingVillage.FishingVillage to /Game/UEDPIE_0_FishingVillage.FishingVillage (0.008809s)
+[2023.03.08-08.47.54:713][106]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.08-08.47.54:714][106]LogAIModule: Creating AISystem for world FishingVillage
+[2023.03.08-08.47.54:714][106]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2023.03.08-08.47.54:839][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.03.08-08.47.54:845][106]LogAudio: Display: Creating Audio Device:                 Id: 100, Scope: Unique, Realtime: True
+[2023.03.08-08.47.54:845][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-08.47.54:845][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-08.47.54:845][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-08.47.54:845][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-08.47.54:845][106]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.08-08.47.54:845][106]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.08-08.47.54:845][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.08-08.47.54:845][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-08.47.54:845][106]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-08.47.54:846][106]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-08.47.54:846][106]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-08.47.54:848][106]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.08-08.47.54:865][106]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.08-08.47.54:866][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-08.47.54:866][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-08.47.54:866][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-08.47.54:866][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=100
+[2023.03.08-08.47.54:866][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=100
+[2023.03.08-08.47.54:869][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=100
+[2023.03.08-08.47.54:869][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=100
+[2023.03.08-08.47.54:869][106]LogInit: FAudioDevice initialized.
+[2023.03.08-08.47.54:869][106]LogAudio: Display: Audio Device (ID: 100) registered with world 'FishingVillage'.
+[2023.03.08-08.47.54:873][106]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.08-08.47.54:875][106]LogWorld: Bringing World /Game/UEDPIE_0_FishingVillage.FishingVillage up for play (max tick rate 0) at 2023.03.08-02.47.54
+[2023.03.08-08.47.54:875][106]LogWorld: Bringing up level for play took: 0.002423
+[2023.03.08-08.47.54:878][106]LogOnline: OSS: Created online subsystem instance for: :Context_185
+[2023.03.08-08.47.54:882][106]PIE: Server logged in
+[2023.03.08-08.47.54:883][106]PIE: Play in editor total start time 0.184 seconds.
+[2023.03.08-08.48.45:560][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.48.45:560][494]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.48.45:560][494]LogWorld: UWorld::CleanupWorld for FishingVillage, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-08.48.45:561][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.48.45:565][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-08.48.45:579][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.48.45:713][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.48.45:713][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100
+[2023.03.08-08.48.45:715][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100
+[2023.03.08-08.48.45:726][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.03.08-08.48.45:809][495]LogPlayLevel: Display: Destroying online subsystem :Context_185
+[2023.03.08-08.49.11:255][875]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.08-08.49.11:275][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-08.49.11:275][875]PIE: New page: PIE session: FishingVillage (Mar 7, 2023, 8:49:11 PM)
+[2023.03.08-08.49.11:275][875]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.49.11:287][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011286s)
+[2023.03.08-08.49.11:287][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FishingVillage.FishingVillage to /Game/UEDPIE_0_FishingVillage.FishingVillage (0.011337s)
+[2023.03.08-08.49.11:287][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.08-08.49.11:288][875]LogAIModule: Creating AISystem for world FishingVillage
+[2023.03.08-08.49.11:288][875]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2023.03.08-08.49.11:436][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.03.08-08.49.11:442][875]LogAudio: Display: Creating Audio Device:                 Id: 101, Scope: Unique, Realtime: True
+[2023.03.08-08.49.11:442][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-08.49.11:442][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-08.49.11:442][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-08.49.11:442][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-08.49.11:442][875]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.08-08.49.11:443][875]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.08-08.49.11:443][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.08-08.49.11:443][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-08.49.11:443][875]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-08.49.11:443][875]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-08.49.11:443][875]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-08.49.11:446][875]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.08-08.49.11:467][875]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.08-08.49.11:468][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-08.49.11:468][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-08.49.11:468][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-08.49.11:468][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=101
+[2023.03.08-08.49.11:469][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=101
+[2023.03.08-08.49.11:472][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=101
+[2023.03.08-08.49.11:473][875]LogInit: FAudioDevice initialized.
+[2023.03.08-08.49.11:473][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=101
+[2023.03.08-08.49.11:473][875]LogAudio: Display: Audio Device (ID: 101) registered with world 'FishingVillage'.
+[2023.03.08-08.49.11:476][875]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.08-08.49.11:479][875]LogWorld: Bringing World /Game/UEDPIE_0_FishingVillage.FishingVillage up for play (max tick rate 0) at 2023.03.08-02.49.11
+[2023.03.08-08.49.11:480][875]LogWorld: Bringing up level for play took: 0.002991
+[2023.03.08-08.49.11:483][875]LogOnline: OSS: Created online subsystem instance for: :Context_186
+[2023.03.08-08.49.11:488][875]PIE: Server logged in
+[2023.03.08-08.49.11:489][875]PIE: Play in editor total start time 0.219 seconds.
+[2023.03.08-08.49.40:210][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.49.40:210][176]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.49.40:210][176]LogWorld: UWorld::CleanupWorld for FishingVillage, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-08.49.40:211][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.49.40:216][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-08.49.40:228][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.49.40:353][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.49.40:354][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101
+[2023.03.08-08.49.40:356][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101
+[2023.03.08-08.49.40:366][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.08-08.49.40:425][177]LogPlayLevel: Display: Destroying online subsystem :Context_186
+[2023.03.08-08.50.08:341][810]BlueprintLog: New page: Compile AnimBP_Landwalker
+[2023.03.08-08.50.08:531][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.03.08-08.50.09:391][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.08-08.50.09:497][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/walker/AnimBP_Landwalker" FILE="C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/Enemies/walker/AnimBP_Landwalker.uasset" SILENT=true
+[2023.03.08-08.50.09:531][837]LogSavePackage: Moving output files for package: /Game/Enemies/walker/AnimBP_Landwalker
+[2023.03.08-08.50.09:531][837]LogSavePackage: Moving 'C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Saved/AnimBP_LandwalkerF667AA11458303320A06108A055E5906.tmp' to 'C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/Enemies/walker/AnimBP_Landwalker.uasset'
+[2023.03.08-08.50.09:547][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 31.5 sec)
+[2023.03.08-08.50.09:562][837]AssetCheck: New page: Asset Save: AnimBP_Landwalker
+[2023.03.08-08.50.09:562][837]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Enemies/walker/AnimBP_Landwalker.AnimBP_Landwalker
+[2023.03.08-08.50.10:432][867]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.08-08.50.10:448][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-08.50.10:448][867]PIE: New page: PIE session: FishingVillage (Mar 7, 2023, 8:50:10 PM)
+[2023.03.08-08.50.10:448][867]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.50.10:458][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009808s)
+[2023.03.08-08.50.10:458][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FishingVillage.FishingVillage to /Game/UEDPIE_0_FishingVillage.FishingVillage (0.009856s)
+[2023.03.08-08.50.10:458][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.08-08.50.10:458][867]LogAIModule: Creating AISystem for world FishingVillage
+[2023.03.08-08.50.10:459][867]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2023.03.08-08.50.10:597][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.03.08-08.50.10:604][867]LogAudio: Display: Creating Audio Device:                 Id: 102, Scope: Unique, Realtime: True
+[2023.03.08-08.50.10:604][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-08.50.10:604][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-08.50.10:604][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-08.50.10:604][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-08.50.10:604][867]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.08-08.50.10:604][867]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.08-08.50.10:604][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.08-08.50.10:604][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-08.50.10:604][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-08.50.10:604][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-08.50.10:604][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-08.50.10:607][867]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.08-08.50.10:626][867]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.08-08.50.10:627][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-08.50.10:627][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-08.50.10:627][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-08.50.10:627][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=102
+[2023.03.08-08.50.10:627][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=102
+[2023.03.08-08.50.10:629][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=102
+[2023.03.08-08.50.10:629][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=102
+[2023.03.08-08.50.10:629][867]LogInit: FAudioDevice initialized.
+[2023.03.08-08.50.10:629][867]LogAudio: Display: Audio Device (ID: 102) registered with world 'FishingVillage'.
+[2023.03.08-08.50.10:633][867]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.08-08.50.10:635][867]LogWorld: Bringing World /Game/UEDPIE_0_FishingVillage.FishingVillage up for play (max tick rate 0) at 2023.03.08-02.50.10
+[2023.03.08-08.50.10:636][867]LogWorld: Bringing up level for play took: 0.002590
+[2023.03.08-08.50.10:638][867]LogOnline: OSS: Created online subsystem instance for: :Context_187
+[2023.03.08-08.50.10:643][867]PIE: Server logged in
+[2023.03.08-08.50.10:644][867]PIE: Play in editor total start time 0.202 seconds.
+[2023.03.08-08.50.14:520][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.50.14:520][ 26]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.50.14:520][ 26]LogWorld: UWorld::CleanupWorld for FishingVillage, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-08.50.14:521][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.50.14:525][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-08.50.14:538][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.50.14:665][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.50.14:665][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=102
+[2023.03.08-08.50.14:667][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=102
+[2023.03.08-08.50.14:677][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.03.08-08.50.14:743][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_187
+[2023.03.08-08.50.20:664][219]BlueprintLog: New page: Compile AnimBP_Landwalker
+[2023.03.08-08.50.20:849][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.03.08-08.50.21:607][242]BlueprintLog: New page: Compile AnimBP_Landwalker
+[2023.03.08-08.50.21:782][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.03.08-08.50.22:339][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.08-08.50.22:443][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/walker/AnimBP_Landwalker" FILE="C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/Enemies/walker/AnimBP_Landwalker.uasset" SILENT=true
+[2023.03.08-08.50.22:475][260]LogSavePackage: Moving output files for package: /Game/Enemies/walker/AnimBP_Landwalker
+[2023.03.08-08.50.22:476][260]LogSavePackage: Moving 'C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Saved/AnimBP_LandwalkerC7B707DD4329A5F8103044BD97B08BE1.tmp' to 'C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/Enemies/walker/AnimBP_Landwalker.uasset'
+[2023.03.08-08.50.22:491][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 31.7 sec)
+[2023.03.08-08.50.22:506][260]AssetCheck: New page: Asset Save: AnimBP_Landwalker
+[2023.03.08-08.50.22:506][260]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Enemies/walker/AnimBP_Landwalker.AnimBP_Landwalker
+[2023.03.08-08.50.23:374][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.08-08.50.23:391][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-08.50.23:391][290]PIE: New page: PIE session: FishingVillage (Mar 7, 2023, 8:50:23 PM)
+[2023.03.08-08.50.23:391][290]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.50.23:401][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009746s)
+[2023.03.08-08.50.23:401][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FishingVillage.FishingVillage to /Game/UEDPIE_0_FishingVillage.FishingVillage (0.009800s)
+[2023.03.08-08.50.23:401][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.08-08.50.23:402][290]LogAIModule: Creating AISystem for world FishingVillage
+[2023.03.08-08.50.23:402][290]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2023.03.08-08.50.23:538][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.03.08-08.50.23:545][290]LogAudio: Display: Creating Audio Device:                 Id: 103, Scope: Unique, Realtime: True
+[2023.03.08-08.50.23:545][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-08.50.23:545][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-08.50.23:545][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-08.50.23:545][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-08.50.23:545][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.08-08.50.23:545][290]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.08-08.50.23:545][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.08-08.50.23:545][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-08.50.23:545][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-08.50.23:545][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-08.50.23:545][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-08.50.23:548][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.08-08.50.23:565][290]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.08-08.50.23:566][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-08.50.23:566][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-08.50.23:566][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-08.50.23:567][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=103
+[2023.03.08-08.50.23:567][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=103
+[2023.03.08-08.50.23:570][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=103
+[2023.03.08-08.50.23:570][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=103
+[2023.03.08-08.50.23:570][290]LogInit: FAudioDevice initialized.
+[2023.03.08-08.50.23:570][290]LogAudio: Display: Audio Device (ID: 103) registered with world 'FishingVillage'.
+[2023.03.08-08.50.23:573][290]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.08-08.50.23:575][290]LogWorld: Bringing World /Game/UEDPIE_0_FishingVillage.FishingVillage up for play (max tick rate 0) at 2023.03.08-02.50.23
+[2023.03.08-08.50.23:576][290]LogWorld: Bringing up level for play took: 0.002604
+[2023.03.08-08.50.23:579][290]LogOnline: OSS: Created online subsystem instance for: :Context_188
+[2023.03.08-08.50.23:584][290]PIE: Server logged in
+[2023.03.08-08.50.23:585][290]PIE: Play in editor total start time 0.201 seconds.
+[2023.03.08-08.50.34:030][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.50.34:030][733]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.50.34:031][733]LogWorld: UWorld::CleanupWorld for FishingVillage, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-08.50.34:031][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.50.34:036][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-08.50.34:048][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.50.34:179][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.50.34:180][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=103
+[2023.03.08-08.50.34:182][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=103
+[2023.03.08-08.50.34:193][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.03.08-08.50.34:268][734]LogPlayLevel: Display: Destroying online subsystem :Context_188
+[2023.03.08-08.50.38:769][883]BlueprintLog: New page: Compile AnimBP_Landwalker
+[2023.03.08-08.50.38:953][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.03.08-08.50.40:628][939]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.08-08.50.40:645][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-08.50.40:645][939]PIE: New page: PIE session: FishingVillage (Mar 7, 2023, 8:50:40 PM)
+[2023.03.08-08.50.40:646][939]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.50.40:657][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010775s)
+[2023.03.08-08.50.40:657][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FishingVillage.FishingVillage to /Game/UEDPIE_0_FishingVillage.FishingVillage (0.010957s)
+[2023.03.08-08.50.40:657][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.08-08.50.40:657][939]LogAIModule: Creating AISystem for world FishingVillage
+[2023.03.08-08.50.40:658][939]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2023.03.08-08.50.40:799][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.03.08-08.50.40:805][939]LogAudio: Display: Creating Audio Device:                 Id: 104, Scope: Unique, Realtime: True
+[2023.03.08-08.50.40:805][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-08.50.40:805][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-08.50.40:805][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-08.50.40:805][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-08.50.40:805][939]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.08-08.50.40:805][939]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.08-08.50.40:805][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.08-08.50.40:806][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-08.50.40:806][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-08.50.40:806][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-08.50.40:806][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-08.50.40:809][939]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.08-08.50.40:827][939]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.08-08.50.40:827][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-08.50.40:827][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-08.50.40:827][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-08.50.40:828][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=104
+[2023.03.08-08.50.40:828][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=104
+[2023.03.08-08.50.40:830][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=104
+[2023.03.08-08.50.40:830][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=104
+[2023.03.08-08.50.40:830][939]LogInit: FAudioDevice initialized.
+[2023.03.08-08.50.40:830][939]LogAudio: Display: Audio Device (ID: 104) registered with world 'FishingVillage'.
+[2023.03.08-08.50.40:834][939]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.08-08.50.40:836][939]LogWorld: Bringing World /Game/UEDPIE_0_FishingVillage.FishingVillage up for play (max tick rate 0) at 2023.03.08-02.50.40
+[2023.03.08-08.50.40:837][939]LogWorld: Bringing up level for play took: 0.002481
+[2023.03.08-08.50.40:839][939]LogOnline: OSS: Created online subsystem instance for: :Context_189
+[2023.03.08-08.50.40:844][939]PIE: Server logged in
+[2023.03.08-08.50.40:844][939]PIE: Play in editor total start time 0.206 seconds.
+[2023.03.08-08.51.06:629][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.51.06:629][ 38]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.51.06:630][ 38]LogWorld: UWorld::CleanupWorld for FishingVillage, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-08.51.06:630][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.51.06:635][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-08.51.06:647][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.51.06:771][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.51.06:771][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=104
+[2023.03.08-08.51.06:773][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=104
+[2023.03.08-08.51.06:782][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.03.08-08.51.06:847][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_189
+[2023.03.08-08.51.13:006][248]BlueprintLog: New page: Compile AnimBP_Landwalker
+[2023.03.08-08.51.13:202][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.03.08-08.51.14:084][277]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.08-08.51.14:099][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-08.51.14:099][277]PIE: New page: PIE session: FishingVillage (Mar 7, 2023, 8:51:14 PM)
+[2023.03.08-08.51.14:099][277]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.51.14:109][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009620s)
+[2023.03.08-08.51.14:109][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FishingVillage.FishingVillage to /Game/UEDPIE_0_FishingVillage.FishingVillage (0.009673s)
+[2023.03.08-08.51.14:109][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.08-08.51.14:110][277]LogAIModule: Creating AISystem for world FishingVillage
+[2023.03.08-08.51.14:110][277]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2023.03.08-08.51.14:239][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.03.08-08.51.14:244][277]LogAudio: Display: Creating Audio Device:                 Id: 105, Scope: Unique, Realtime: True
+[2023.03.08-08.51.14:244][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-08.51.14:244][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-08.51.14:244][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-08.51.14:244][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-08.51.14:244][277]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.08-08.51.14:244][277]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.08-08.51.14:244][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.08-08.51.14:244][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-08.51.14:245][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-08.51.14:245][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-08.51.14:245][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-08.51.14:248][277]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.08-08.51.14:268][277]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.08-08.51.14:268][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-08.51.14:268][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-08.51.14:268][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-08.51.14:269][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=105
+[2023.03.08-08.51.14:269][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=105
+[2023.03.08-08.51.14:272][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=105
+[2023.03.08-08.51.14:272][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=105
+[2023.03.08-08.51.14:272][277]LogInit: FAudioDevice initialized.
+[2023.03.08-08.51.14:272][277]LogAudio: Display: Audio Device (ID: 105) registered with world 'FishingVillage'.
+[2023.03.08-08.51.14:275][277]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.08-08.51.14:278][277]LogWorld: Bringing World /Game/UEDPIE_0_FishingVillage.FishingVillage up for play (max tick rate 0) at 2023.03.08-02.51.14
+[2023.03.08-08.51.14:278][277]LogWorld: Bringing up level for play took: 0.003196
+[2023.03.08-08.51.14:281][277]LogOnline: OSS: Created online subsystem instance for: :Context_190
+[2023.03.08-08.51.14:286][277]PIE: Server logged in
+[2023.03.08-08.51.14:287][277]PIE: Play in editor total start time 0.194 seconds.
+[2023.03.08-08.51.22:739][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.51.22:740][631]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.51.22:740][631]LogWorld: UWorld::CleanupWorld for FishingVillage, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-08.51.22:740][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.51.22:745][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-08.51.22:757][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.51.22:881][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-08.51.22:881][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=105
+[2023.03.08-08.51.22:883][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=105
+[2023.03.08-08.51.22:888][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.51.22:894][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.03.08-08.51.22:961][632]LogPlayLevel: Display: Destroying online subsystem :Context_190
+[2023.03.08-08.51.52:775][559]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.08-08.51.52:791][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-08.51.52:791][559]PIE: New page: PIE session: FishingVillage (Mar 7, 2023, 8:51:52 PM)
+[2023.03.08-08.51.52:791][559]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.51.52:802][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011457s)
+[2023.03.08-08.51.52:803][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FishingVillage.FishingVillage to /Game/UEDPIE_0_FishingVillage.FishingVillage (0.011507s)
+[2023.03.08-08.51.52:803][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.08-08.51.52:803][559]LogAIModule: Creating AISystem for world FishingVillage
+[2023.03.08-08.51.52:804][559]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2023.03.08-08.51.52:954][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.03.08-08.51.52:960][559]LogAudio: Display: Creating Audio Device:                 Id: 106, Scope: Unique, Realtime: True
+[2023.03.08-08.51.52:960][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-08.51.52:960][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-08.51.52:960][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-08.51.52:960][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-08.51.52:960][559]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.08-08.51.52:960][559]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.08-08.51.52:960][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.08-08.51.52:960][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-08.51.52:961][559]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-08.51.52:961][559]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-08.51.52:961][559]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-08.51.52:964][559]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.08-08.51.52:982][559]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.08-08.51.52:982][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-08.51.52:982][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-08.51.52:982][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-08.51.52:983][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=106
+[2023.03.08-08.51.52:983][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=106
+[2023.03.08-08.51.52:986][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=106
+[2023.03.08-08.51.52:986][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=106
+[2023.03.08-08.51.52:986][559]LogInit: FAudioDevice initialized.
+[2023.03.08-08.51.52:986][559]LogAudio: Display: Audio Device (ID: 106) registered with world 'FishingVillage'.
+[2023.03.08-08.51.52:990][559]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.08-08.51.52:992][559]LogWorld: Bringing World /Game/UEDPIE_0_FishingVillage.FishingVillage up for play (max tick rate 0) at 2023.03.08-02.51.52
+[2023.03.08-08.51.52:993][559]LogWorld: Bringing up level for play took: 0.003051
+[2023.03.08-08.51.52:996][559]LogOnline: OSS: Created online subsystem instance for: :Context_191
+[2023.03.08-08.51.53:002][559]PIE: Server logged in
+[2023.03.08-08.51.53:003][559]PIE: Play in editor total start time 0.22 seconds.
+[2023.03.08-08.52.28:018][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.52.28:019][602]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FishingVillage
+[2023.03.08-08.52.28:019][602]LogWorld: UWorld::CleanupWorld for FishingVillage, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-08.52.28:019][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.52.28:023][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-08.52.28:035][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-08.52.28:150][602]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-08.52.28:150][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=106
+[2023.03.08-08.52.28:152][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=106
+[2023.03.08-08.52.28:157][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-08.52.28:162][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.03.08-08.52.28:219][603]LogPlayLevel: Display: Destroying online subsystem :Context_191
+[2023.03.08-08.53.14:041][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.03.08-08.53.14:045][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FishingVillage' took 0.134
+[2023.03.08-08.53.14:046][140]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/walker/AnimBP_Landwalker] ([2] browsable assets)...
+[2023.03.08-08.53.14:057][140]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Enemies/walker/AnimBP_Landwalker.AnimBP_Landwalker]
+[2023.03.08-08.53.14:057][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/walker/AnimBP_Landwalker]
+[2023.03.08-08.53.14:088][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/walker/AnimBP_Landwalker_Auto8
+[2023.03.08-08.53.14:088][140]LogSavePackage: Moving 'C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Saved/AnimBP_Landwalker_Auto8E0FCC8834A5F3ADF5AFCCDB4FEF299EB.tmp' to 'C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Saved/Autosaves/Game/Enemies/walker/AnimBP_Landwalker_Auto8.uasset'
+[2023.03.08-08.53.14:089][140]LogFileHelpers: Auto-saving content packages took 0.044
+[2023.03.08-09.11.07:054][101]LogDerivedDataCache: C:/Users/AZ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.288 and deleted 0 files with total size 0 MiB. Scanned 15731 files in 15326 folders with total size 584 MiB.
+[2023.03.08-09.13.14:974][570]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.08-09.13.36:718][964]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.08-09.13.36:734][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-09.13.36:734][964]PIE: New page: PIE session: FishingVillage (Mar 7, 2023, 9:13:36 PM)
+[2023.03.08-09.13.36:767][964]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FishingVillage
+[2023.03.08-09.13.36:777][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009387s)
+[2023.03.08-09.13.36:777][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FishingVillage.FishingVillage to /Game/UEDPIE_0_FishingVillage.FishingVillage (0.009446s)
+[2023.03.08-09.13.36:777][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.08-09.13.36:777][964]LogAIModule: Creating AISystem for world FishingVillage
+[2023.03.08-09.13.36:778][964]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2023.03.08-09.13.36:917][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.03.08-09.13.36:923][964]LogAudio: Display: Creating Audio Device:                 Id: 107, Scope: Unique, Realtime: True
+[2023.03.08-09.13.36:923][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-09.13.36:923][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-09.13.36:923][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-09.13.36:923][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-09.13.36:923][964]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.08-09.13.36:923][964]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.08-09.13.36:923][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.08-09.13.36:923][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-09.13.36:923][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-09.13.36:923][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-09.13.36:923][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-09.13.36:926][964]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.08-09.13.36:945][964]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.08-09.13.36:946][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-09.13.36:946][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-09.13.36:946][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-09.13.36:947][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=107
+[2023.03.08-09.13.36:948][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=107
+[2023.03.08-09.13.36:950][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=107
+[2023.03.08-09.13.36:950][964]LogInit: FAudioDevice initialized.
+[2023.03.08-09.13.36:950][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=107
+[2023.03.08-09.13.36:950][964]LogAudio: Display: Audio Device (ID: 107) registered with world 'FishingVillage'.
+[2023.03.08-09.13.36:954][964]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.08-09.13.36:957][964]LogWorld: Bringing World /Game/UEDPIE_0_FishingVillage.FishingVillage up for play (max tick rate 0) at 2023.03.08-03.13.36
+[2023.03.08-09.13.36:957][964]LogWorld: Bringing up level for play took: 0.003434
+[2023.03.08-09.13.36:960][964]LogOnline: OSS: Created online subsystem instance for: :Context_192
+[2023.03.08-09.13.36:966][964]PIE: Server logged in
+[2023.03.08-09.13.36:967][964]PIE: Play in editor total start time 0.239 seconds.
+[2023.03.08-09.13.38:323][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-09.13.38:323][ 83]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FishingVillage
+[2023.03.08-09.13.38:323][ 83]LogWorld: UWorld::CleanupWorld for FishingVillage, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-09.13.38:324][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-09.13.38:328][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-09.13.38:339][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-09.13.38:467][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-09.13.38:467][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=107
+[2023.03.08-09.13.38:469][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=107
+[2023.03.08-09.13.38:479][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.03.08-09.13.38:541][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_192
+[2023.03.08-09.13.43:333][298]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.08-09.13.44:804][366]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.08-09.13.45:755][410]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.08-09.13.46:555][446]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.08-09.13.48:787][549]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.08-09.13.49:927][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.08-09.13.51:055][655]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.08-09.13.51:884][693]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.08-09.21.18:663][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.03.08-09.21.20:765][754]LogSlate: Window 'Save Content' being destroyed
+[2023.03.08-09.21.20:800][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.08-09.21.20:860][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/walker/AnimBP_Landwalker" FILE="C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/Enemies/walker/AnimBP_Landwalker.uasset" SILENT=true
+[2023.03.08-09.21.20:897][754]LogSavePackage: Moving output files for package: /Game/Enemies/walker/AnimBP_Landwalker
+[2023.03.08-09.21.20:898][754]LogSavePackage: Moving 'C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Saved/AnimBP_Landwalker94E09716410E12F18D58598F61DC089B.tmp' to 'C:/Users/AZ/Documents/GitHub/Momentum/GrapplingGame 5.1/Content/Enemies/walker/AnimBP_Landwalker.uasset'
+[2023.03.08-09.21.20:910][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 31.8 sec)
+[2023.03.08-09.21.20:924][754]AssetCheck: New page: Asset Save: AnimBP_Landwalker
+[2023.03.08-09.21.20:924][754]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Enemies/walker/AnimBP_Landwalker.AnimBP_Landwalker
